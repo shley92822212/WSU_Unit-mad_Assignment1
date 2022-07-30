@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_add_exam.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_add_student.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_add_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_display_student.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_edit_student.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_edit_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_main.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_select_photo.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_sort_exams.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_sort_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_student_list.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/activity_to_do_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_add_exam.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_add_student.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_add_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_display_student.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_edit_student.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_edit_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_main.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_select_photo.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_sort_exams.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_sort_to_do.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_student_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/content_to_do_list.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/exam_list.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/student_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/layout/todo_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rex98/Google Drive/temp uploads from other computer/Assignment 1 Android Studio/Assignment1/Assignment1/app/src/main/res/menu/menu_main.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

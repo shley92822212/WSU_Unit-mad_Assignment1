@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ashley.assignment1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".studentListActivity"
+            android:label="@string/title_activity_student_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddStudentActivity"
+            android:label="@string/title_activity_add_student"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditStudentActivity"
+            android:label="@string/title_activity_edit_student"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayStudentActivity"
+            android:label="@string/title_activity_display_student"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ToDoListActivity"
+            android:label="@string/title_activity_to_do_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddToDoActivity"
+            android:label="@string/title_activity_add_to_do"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditToDoActivity"
+            android:label="@string/title_activity_edit_to_do"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SortToDoActivity"
+            android:label="@string/title_activity_sort_to_do"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SelectPhotoActivity"
+            android:label="@string/title_activity_select_photo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SortExamsActivity"
+            android:label="@string/title_activity_sort_exams"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddExamActivity"
+            android:label="@string/title_activity_add_exam"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

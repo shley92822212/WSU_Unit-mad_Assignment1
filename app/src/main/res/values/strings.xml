@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_student_list">studentListActivity</string>
+    <string name="title_activity_add_student">AddStudentActivity</string>
+    <string name="title_activity_edit_student">EditStudentActivity</string>
+    <string name="title_activity_display_student">DisplayStudentActivity</string>
+    <string name="title_activity_to_do_list">ToDoListActivity</string>
+    <string name="title_activity_add_to_do">AddToDoActivity</string>
+    <string name="title_activity_edit_to_do">EditToDoActivity</string>
+    <string name="title_activity_sort_to_do">SortToDoActivity</string>
+    <string name="title_activity_select_photo">SelectPhotoActivity</string>
+    <string name="title_activity_sort_exams">SortExamsActivity</string>
+    <string name="title_activity_add_exam">AddExamActivity</string>
+</resources>
